@@ -1,0 +1,17 @@
+{
+  "name": "goodledocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googleapis/docs": "^0.2.0",
+    "express": "^4.17.3",
+    "googleapis": "^96.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
